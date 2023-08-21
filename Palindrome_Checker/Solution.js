@@ -12,8 +12,6 @@ const rl = readline.createInterface({
 
 
 const main = () => {
-  console.log('Key _out for close processing')
-
   rl.question("Enter a string: ", (str) => {
 
     if(str.trim().toLocaleLowerCase() != '_out') {
@@ -26,4 +24,5 @@ const main = () => {
   })
 }
 
+console.log('Key _out for close processing')
 main();
