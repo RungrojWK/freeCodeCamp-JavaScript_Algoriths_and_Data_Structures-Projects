@@ -44,4 +44,4 @@ For this challenge you will be presented with a string such as `800-692-7753` or
 `telephoneCheck("55 55-55-555-5")` should return false.\
 `telephoneCheck("11 555-555-5555")` should return false.
 
-Go to [Solution]([https://github.com/RungrojWK/freeCodeCamp-JavaScript_Algoriths_and_Data_Structures-Projects/blob/main/Palindrome_Checker/Solution.js](https://github.com/RungrojWK/freeCodeCamp-JavaScript_Algoriths_and_Data_Structures-Projects/blob/main/Telephone_Number_Validator/Solution.js)https://github.com/RungrojWK/freeCodeCamp-JavaScript_Algoriths_and_Data_Structures-Projects/blob/main/Telephone_Number_Validator/Solution.js)
+Go to [Solution](https://github.com/RungrojWK/freeCodeCamp-JavaScript_Algoriths_and_Data_Structures-Projects/blob/main/Telephone_Number_Validator/Solution.js)
