@@ -45,4 +45,4 @@ See below for an example of a cash-in-drawer array:
 `checkCashRegister(19.5, 20, [["PENNY", 0.01], ["NICKEL", 0], ["DIME", 0], ["QUARTER", 0], ["ONE", 1], ["FIVE", 0], ["TEN", 0], ["TWENTY", 0], ["ONE HUNDRED", 0]])` should return `{status: "INSUFFICIENT_FUNDS", change: []}`.\
 `checkCashRegister(19.5, 20, [["PENNY", 0.5], ["NICKEL", 0], ["DIME", 0], ["QUARTER", 0], ["ONE", 0], ["FIVE", 0], ["TEN", 0], ["TWENTY", 0], ["ONE HUNDRED", 0]])` should return `{status: "CLOSED", change: [["PENNY", 0.5], ["NICKEL", 0], ["DIME", 0], ["QUARTER", 0], ["ONE", 0], ["FIVE", 0], ["TEN", 0], ["TWENTY", 0], ["ONE HUNDRED", 0]]}`.
 
-Go to [Solution](https://github.com/RungrojWK/freeCodeCamp-JavaScript_Algoriths_and_Data_Structures-Projects/blob/main/Roman_Numeral_Converter/Solution.js)
+Go to [Solution](https://github.com/RungrojWK/freeCodeCamp-JavaScript_Algoriths_and_Data_Structures-Projects/blob/main/Cash_Register/Solution.js)
